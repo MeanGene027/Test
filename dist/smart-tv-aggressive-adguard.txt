@@ -1,0 +1,4 @@
+! OPTIONAL aggressive Smart TV list — read lists/optional-aggressive.txt first
+||gpm.samsungqbe.com^
+||samsungotn.net^
+||snu.lge.com^

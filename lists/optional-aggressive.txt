@@ -1,0 +1,7 @@
+# OPTIONAL — removes more ads but CAN BREAK things. Add only if you accept the side effects.
+# Samsung: removes more Smart Hub ads; some menus/Samsung TV Plus may load slowly or show blanks.
+gpm.samsungqbe.com
+# Samsung: blocks firmware updates (stops Samsung from re-enabling ads after an update).
+samsungotn.net
+# LG: blocks firmware updates (same reason). Unblock briefly when you want to update.
+snu.lge.com

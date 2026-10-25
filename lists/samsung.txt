@@ -1,0 +1,11 @@
+# Samsung Tizen — Smart Hub banner/tile ads, ad config, ACR ("Viewing Information Services")
+samsungads.com
+config.samsungads.com
+ads.samsung.com
+samsungadhub.com
+ad.samsungadhub.com
+samsungacr.com
+log-config.samsungacr.com
+acr-us-prd.samsungcloud.tv
+samsungtifa.com
+samsung-com.112.2o7.net

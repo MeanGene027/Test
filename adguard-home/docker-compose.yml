@@ -1,0 +1,15 @@
+# Runs AdGuard Home (network-wide ad blocker) on any always-on computer, NAS, or Raspberry Pi.
+# Start:  docker compose up -d     then open http://<this-computer's-IP>:3000 to finish setup.
+services:
+  adguardhome:
+    image: adguard/adguardhome:latest
+    container_name: adguardhome
+    restart: unless-stopped
+    ports:
+      - "53:53/tcp"     # DNS
+      - "53:53/udp"     # DNS
+      - "3000:3000/tcp" # first-run setup wizard
+      - "80:80/tcp"     # admin dashboard after setup
+    volumes:
+      - ./work:/opt/adguardhome/work
+      - ./conf:/opt/adguardhome/conf

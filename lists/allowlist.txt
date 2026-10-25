@@ -1,0 +1,11 @@
+# NEVER block these — blocking them breaks Roku (network check, channel store, channel art).
+# If a big community blocklist you also use blocks any of them, allow them.
+captive.roku.com
+cloudservices.roku.com
+image.roku.com
+api.roku.com
+#
+# Also do NOT block these whole parent domains (the ad subdomains above are fine to block):
+#   lgtvsdp.com, lgappstv.com           -> LG Content Store / app downloads
+#   samsungcloudsolution.com / .net     -> Samsung account, Smart Hub, apps
+#   samsungapps.com                     -> Samsung app store

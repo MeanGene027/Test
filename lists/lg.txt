@@ -1,0 +1,17 @@
+# LG webOS — home screen ads, "Home Promotion" banners, ad tracking, Live Plus (ACR)
+# Safe to block: none of these are needed for apps, the LG Content Store, or firmware updates.
+ad.lgappstv.com
+lgad.cjpowercast.com.edgesuite.net
+lgsmartad.com
+us.ad.lgsmartad.com
+us.info.lgsmartad.com
+eu.info.lgsmartad.com
+info.lgsmartad.com
+ngfts.lge.com
+aic-ngfts.lge.com
+yumenetworks.com
+smartclip.net
+smartclip.com
+# Alphonso — the ACR (viewing-tracking) vendor behind LG "Live Plus"
+alphonso.tv
+api.alphonso.tv

@@ -1,0 +1,5 @@
+! Smart TV allowlist — keeps Roku working
+@@||api.roku.com^
+@@||captive.roku.com^
+@@||cloudservices.roku.com^
+@@||image.roku.com^

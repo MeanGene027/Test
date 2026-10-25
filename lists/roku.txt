@@ -1,0 +1,11 @@
+# Roku — ad servers and telemetry/logging.
+# Note: Roku serves its home-screen banner from the same servers as channel art,
+# so DNS can't remove that one banner without breaking Roku. Use the settings in README.md for it.
+ads.roku.com
+p.ads.roku.com
+logs.roku.com
+giga.logs.roku.com
+cooper.logs.roku.com
+austin.logs.roku.com
+tyler.logs.roku.com
+customer-feedbacks.web.roku.com
